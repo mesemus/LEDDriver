@@ -1,6 +1,6 @@
 # LEDDriver
 
-A small project for driving 10 different leds using ATMEGA328P (DIL) microprocessor dedicated as a PWM driver.
+A small project for driving 10 different leds using atmel atmega 328p (DIL) microprocessor dedicated as a PWM driver.
 The driver communicates via serial interface, commands:
 
 ```
